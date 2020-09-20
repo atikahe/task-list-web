@@ -27,5 +27,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
+## Credits
+[CouchDB](https://couchdb.apache.org/)
+[create-express-api](https://github.com/w3cj/create-express-api)
+[node-couchdb](https://www.npmjs.com/package/node-couchdb)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
